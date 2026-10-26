@@ -1,0 +1,312 @@
+ingilizce	hedef	kabul	durum
+gingiva	diş eti		guvenli
+oral mucosa	oral mukoza		guvenli
+lining mucosa	örtücü mukoza		guvenli
+masticatory mucosa	çiğneyici mukoza		guvenli
+oral epithelium	oral epitel		guvenli
+attached gingiva	yapışık diş eti		guvenli
+free gingiva	serbest diş eti		guvenli
+gingival unit	diş eti birimi		guvenli
+dentogingival unit	dentogingival birim		guvenli
+mucogingival junction	mukogingival birleşim		guvenli
+vestibular fornix	vestibül forniksi		guvenli
+junctional epithelium	birleşim epiteli		guvenli
+oral sulcular epithelium	oral sulküler epitel		guvenli
+periodontal ligament	periodontal ligament		guvenli
+cementum	sement		guvenli
+alveolar bone	alveolar kemik		guvenli
+alveolar crest	alveolar kret		guvenli
+alveolar process	alveolar proçes		guvenli
+alveolar mucosa	alveolar mukoza		guvenli
+alveolar bone proper	kribriform tabaka		guvenli
+cancellous bone	kansellöz (süngerimsi) kemik		guvenli
+primary spongiosa	primer süngerimsi kemik		guvenli
+interdental papilla	interdental papil		guvenli
+col	col bölgesi		guvenli
+keratinized tissue	keratinize doku		guvenli
+elastic fibers	elastik lifler		guvenli
+extracellular matrix	ekstrasellüler matriks		guvenli
+ectomesenchyme	ektomezenşim		guvenli
+mesenchymal (origin)	mezenşimal kaynaklı | mezenşimal orijinli		guvenli
+attachment apparatus	ataşman aparatı		guvenli
+vascular structures	vasküler yapılar		guvenli
+bone remodeling	remodelasyon		guvenli
+neural crest	nöral kret		guvenli
+collagen fiber	kolajen lif		guvenli
+reticulin	retikülin		guvenli
+oxytalan fibers	oksitalan lifleri		guvenli
+basement membrane	bazal membran		guvenli
+keratinocyte	keratinosit		guvenli
+biologic width	suprakrestal doku ataşmanı		guvenli
+periodontal biotype	periodontal biyotip		guvenli
+reduced periodontium	azalmış periodonsiyum		guvenli
+host	konak		guvenli
+probing depth	sondlama derinliği		guvenli
+pocket depth	cep derinliği		guvenli
+clinical attachment level	klinik ataşman seviyesi		guvenli
+probing attachment level	sondlamada ataşman seviyesi		guvenli
+diagnosis	teşhis		guvenli
+attachment loss	ataşman kaybı		guvenli
+bleeding on probing	sondlamada kanama		guvenli
+periodontal probing	periodontal sondlama		guvenli
+automated probing system	otomatik sondlama sistemi		guvenli
+gingival recession	diş eti çekilmesi		guvenli
+furcation involvement	furkasyon tutulumu		guvenli
+furcation fornix	furkasyon forniksi		guvenli
+furcation entrance	furkasyon girişi		guvenli
+mobility	mobilite		guvenli
+suppuration	süpürasyon		guvenli
+calculus	diş taşı		guvenli
+radiographic bone loss	radyografik kemik kaybı		guvenli
+morphology of bone loss	kemik kaybının morfolojisi		guvenli
+severity of bone loss	kemik kaybının şiddeti		guvenli
+keratinized tissue width	keratinize doku genişliği		guvenli
+intrabony pocket	kemik içi cep		guvenli
+residual pocket	rezidüel cep | kalan derin cep		guvenli
+plaque index	plak indeksi		guvenli
+gingival index	gingival indeks		guvenli
+periodontal chart	periodontal çizelge		guvenli
+predictive value	prediktif değer		guvenli
+angular	açısal		guvenli
+pseudo-pocket	yalancı cep		guvenli
+dichotomous	var/yok (ikili) biçiminde		guvenli
+topographical pattern	topografik patern		guvenli
+history taking	anamnez alma		guvenli
+chief complaint	başlıca yakınma | esas şikâyet		guvenli
+implant recipient site	implant alıcı bölgesi		guvenli
+two-digit system	FDI iki haneli sistem		guvenli
+excursive movements	ekskürsiyon hareketleri		guvenli
+suprabony lesion	kemik üstü lezyon		guvenli
+infrabony lesion	kemik içi lezyon		guvenli
+periodontal risk assessment	periodontal risk değerlendirmesi		guvenli
+tooth prognosis	tek diş prognozu		guvenli
+food impaction	besin sıkışması		guvenli
+food particles	besin parçacıkları		guvenli
+apical migration	apikale göç		guvenli
+re-epithelialization	yeniden epitelizasyon		guvenli
+band	bant		guvenli
+stage	evre		guvenli
+prevalence	prevalans		guvenli
+incidence	insidans		guvenli
+extent	yaygınlık		guvenli
+case definition	vaka tanımlama		guvenli
+screening method	tarama yöntemi		guvenli
+descriptive epidemiology	tanımlayıcı epidemiyoloji		guvenli
+descriptive statistics	tanımlayıcı istatistik		guvenli
+analytical epidemiology	analitik epidemiyoloji		guvenli
+etiologic epidemiology	etiyolojik epidemiyoloji		guvenli
+experimental epidemiology	deneysel epidemiyoloji		guvenli
+natural history	doğal seyir		guvenli
+familial aggregation	ailesel kümelenme		guvenli
+median	ortanca		guvenli
+percentile	persentil		guvenli
+skewed	çarpık dağılım		guvenli
+frequency distribution	sıklık dağılımı		guvenli
+sensitive	duyarlı		guvenli
+specific	özgül		guvenli
+cohort	kohort		guvenli
+partial recording	kısmi kayıt		guvenli
+full-mouth recording	tüm ağız kaydı		guvenli
+age-adjusted	yaşa göre düzeltilmiş		guvenli
+setting	ortam | bağlam		guvenli
+companion paper	eşlik eden yayın		guvenli
+longitudinal	boylamsal		guvenli
+cross-sectional	kesitsel		guvenli
+sample	örneklem		guvenli
+site	bölge		guvenli
+deterioration	bozulma		guvenli
+disease-free	hastalıksız		guvenli
+background factors	arka plan etkenleri		guvenli
+scaling and root planing	subgingival enstrümantasyon		guvenli
+root debridement	kök debridmanı		guvenli
+professional mechanical plaque removal	profesyonel mekanik plak uzaklaştırılması		guvenli
+self-performed plaque control	hastanın kendi uyguladığı plak kontrolü		guvenli
+self-referred patient	kendi başvuran hasta		guvenli
+oral hygiene instruction	ağız hijyeni eğitimi		guvenli
+interdental cleaning	diş arası temizliği		guvenli
+interdental cleaning device	diş arası temizlik aracı		guvenli
+oral irrigator	oral irrigatör | diş suyu jeti		guvenli
+sulcular brushing	sulküler fırçalama		guvenli
+powered toothbrush	elektrikli diş fırçası		guvenli
+manual toothbrush	manüel diş fırçası		guvenli
+step 1–4 therapy	1.–4. basamak tedavi		guvenli
+initial (hygienic) phase	başlangıç (hijyenik) faz		guvenli
+maintenance phase	idame fazı		guvenli
+supportive periodontal care	destekleyici periodontal tedavi		guvenli
+recall visit	kontrol randevusu		guvenli
+demands	istekler		guvenli
+delivery of the prosthesis	protezin teslim edilmesi		guvenli
+access therapy	erişim tedavisi		guvenli
+open flap debridement	açık flep debridmanı		guvenli
+papilla preservation flap	papil koruyuculu flep		guvenli
+mucoperiosteal flap	mukoperiostal flep		guvenli
+full-thickness flap	tam kalınlık flep		guvenli
+pedicle graft	saplı (pediküllü) greft		guvenli
+distal wedge procedure	distal kama işlemi		guvenli
+flap design	flep dizaynı		guvenli
+guided tissue regeneration	yönlendirilmiş doku rejenerasyonu		guvenli
+guided bone regeneration	yönlendirilmiş kemik rejenerasyonu		guvenli
+barrier membrane	bariyer membran		guvenli
+enamel matrix derivative	mine matriks türevi		guvenli
+connective tissue graft	bağ dokusu grefti		guvenli
+interpositional graft	interpozisyonel greft		guvenli
+onlay graft	onlay greft		guvenli
+pouch graft	pouch greft işlemi		guvenli
+coronally advanced flap	koronale kaydırılan flep		guvenli
+root coverage	kök yüzeyinin örtülmesi		guvenli
+creeping attachment	creeping ataşman		guvenli
+root surface biomodification	kök yüzeyi biyomodifikasyonu		guvenli
+crown lengthening	kuron boyu uzatma		guvenli
+gingivectomy	gingivektomi		guvenli
+gingivoplasty	gingivoplasti		guvenli
+resective osseous surgery	rezektif kemik cerrahisi		guvenli
+ostectomy	ostektomi		guvenli
+osteoplasty	osteoplasti		guvenli
+root separation	kök ayırma		guvenli
+root resection	kök rezeksiyonu		guvenli
+furcation plasty	furkasyon plasti		guvenli
+tunnel preparation	tünel preparasyonu		guvenli
+ridge preservation	kret koruma		guvenli
+socket preservation	soket koruma		guvenli
+ridge augmentation	kret ogmentasyonu		guvenli
+deformed ridge	deforme kret		guvenli
+sinus floor elevation	sinüs tabanı yükseltme		guvenli
+freeze-dried bone allograft	dondurulmuş-kurutulmuş kemik allogreft		guvenli
+tricalcium phosphate	trikalsiyum fosfat		guvenli
+trephine	trefan		guvenli
+host modulation therapy	konak modülasyon tedavisi		guvenli
+local drug delivery	lokal ilaç kullanımı		guvenli
+adjunctive	ek | yardımcı		guvenli
+surgical microscope	cerrahi mikroskop		guvenli
+loupes	louplar		guvenli
+temporary anchorage device	geçici ankraj aracı		guvenli
+molar uprighting	molar doğrultma		guvenli
+curette blade	bıçak		guvenli
+curette shank	boyun		guvenli
+curette handle	sap		guvenli
+scalpel	bistüri		guvenli
+blunt instrument	künt alet		guvenli
+conventional	geleneksel | konvansiyonel		guvenli
+releasing incision	rahatlatıcı insizyon		guvenli
+beveled incision	eğimli insizyon		guvenli
+reverse bevel incision	ters eğimli insizyon		guvenli
+beveled flap	eğimli flep		guvenli
+semilunar incision	yarım-ay (semilüner) insizyon		guvenli
+scalloped	festonlu		guvenli
+tissue collar	doku halkası		guvenli
+(bone) recontouring	yeniden konturlama		guvenli
+periosteal elevator	periost elevatörü		guvenli
+bone chisel	kemik keskisi		guvenli
+rongeur	kemik ronjörü		guvenli
+round bur	rond frez		guvenli
+saline irrigation	serum fizyolojik irrigasyonu		guvenli
+interrupted suture	kesintili sütür		guvenli
+mattress suture	matres sütür		guvenli
+periodontal dressing	periodontal pat		guvenli
+pain control	ağrı kontrolü		guvenli
+embrasure	embraşür		guvenli
+approximal	aproksimal		guvenli
+maxillary	maksiller		guvenli
+mandibular	mandibular		guvenli
+dentition	dentisyon		guvenli
+periodontist	periodontist		guvenli
+osseous ledge	kemik çıkıntısı		guvenli
+osseous crater	kemik krateri		guvenli
+supporting bone	destek kemik		guvenli
+biofilm	biyofilm		guvenli
+dysbiosis	disbiyoz		guvenli
+keystone pathogen	kilit taşı patojen		guvenli
+ecological plaque hypothesis	ekolojik plak hipotezi		guvenli
+specific plaque hypothesis	spesifik plak hipotezi		guvenli
+host response	konak cevabı		guvenli
+response	cevap		guvenli
+microbial succession	mikrobiyal süksesyon		guvenli
+host defense mechanisms	konak savunma mekanizmaları		guvenli
+immune response	immün cevap		guvenli
+permeability	geçirgenlik		guvenli
+regulatory T cell (Treg)	regülatuar T hücresi (Treg)		guvenli
+plasma cell	plazma hücresi		guvenli
+pocket epithelium	cep epiteli		guvenli
+gingival crevicular fluid	diş eti oluğu sıvısı		guvenli
+cell line	hücre hattı		guvenli
+strain	suş | soy		guvenli
+innate immunity	doğal bağışıklık		guvenli
+adaptive immunity	kazanılmış bağışıklık		guvenli
+cell-mediated immunity	hücresel bağışıklık		guvenli
+antigen-presenting cell	antijen sunucu hücre		guvenli
+delayed type hypersensitivity	geç tip hipersensitivite		guvenli
+bacterial challenge	bakteriyel uyarı		guvenli
+pro-inflammatory mediator	proenflamatuar medyatör		guvenli
+inflammation	enflamasyon		guvenli
+inflammatory	enflamatuar		guvenli
+connective tissue matrix destruction	bağ dokusu matriksi yıkımı		guvenli
+bone resorption	kemik rezorpsiyonu		guvenli
+codestruction zone	birlikte yıkım bölgesi		guvenli
+advanced glycation end products	ileri glikasyon son ürünleri		guvenli
+stem cell	kök hücre		guvenli
+progenitor cell	progenitör hücre		guvenli
+tissue engineering	doku mühendisliği		guvenli
+randomized controlled trial	randomize kontrollü çalışma		guvenli
+systematic review	sistematik derleme		guvenli
+meta-analysis	meta-analiz		guvenli
+consensus report	uzlaşı raporu		guvenli
+certainty of evidence	kanıt kesinliği		guvenli
+risk of bias	yanlılık riski		guvenli
+selection bias	seçim yanlılığı		guvenli
+reporting bias	bildirim yanlılığı		guvenli
+confidence interval	güven aralığı		guvenli
+odds ratio	odds oranı		guvenli
+risk ratio	risk oranı		guvenli
+hazard ratio	hazard oranı		guvenli
+relative risk	göreceli risk		guvenli
+dose–response effect	doz-cevap etkisi		guvenli
+exposure variable	ekspoz değişkeni		guvenli
+external validity	eksternal geçerlilik		guvenli
+intervention study	girişimsel çalışma		guvenli
+genome-wide association study	genom çapında ilişkilendirme çalışması		guvenli
+epigenetic signature	epigenetik imza		guvenli
+number needed to treat	tedavi edilmesi gereken hasta sayısı		guvenli
+effect size	etki büyüklüğü		guvenli
+baseline	başlangıç		guvenli
+follow-up	izlem		guvenli
+blinding	körleme		guvenli
+survival rate	sağkalım oranı		guvenli
+risk factor	risk faktörü		guvenli
+finite element analysis	sonlu element analizi		guvenli
+adverse pregnancy outcome	olumsuz gebelik sonucu		guvenli
+small for gestational age	gebelik yaşına göre küçük		guvenli
+caries	çürük		guvenli
+pulp	pulpa		guvenli
+root canal treatment	kök kanal tedavisi		guvenli
+electric pulp test	elektrik pulpa testi		guvenli
+dentin hypersensitivity	dentin hipersensitivitesi		guvenli
+accessory canal	aksesuar kanal		guvenli
+cemental tear	semental yarık		guvenli
+vertical root fracture	vertikal kök kırığı		guvenli
+restoration	restorasyon		guvenli
+margin	kenar		guvenli
+crown	kuron		guvenli
+occlusion	oklüzyon		guvenli
+occlusal trauma	oklüzal travma		guvenli
+pathologic tooth migration	patolojik diş migrasyonu		guvenli
+splinting	splintleme		guvenli
+abutment	dayanak | köprü ayağı		guvenli
+prefabricated abutment	prefabrike dayanak		guvenli
+customized abutment	özel yapılmış dayanak		guvenli
+fixed partial denture	sabit parsiyel protez		guvenli
+pontic	pontik		guvenli
+cantilever	kantilever		guvenli
+removable partial denture	hareketli parsiyel protez		guvenli
+edentulous	dişsiz		guvenli
+edentulism	dişsizlik		guvenli
+congenital absence	konjenital yokluk		guvenli
+extraction	çekim		guvenli
+impacted tooth	gömülü diş		guvenli
+socket healing	soket iyileşmesi		guvenli
+cone-beam CT	konik ışınlı bilgisayarlı tomografi		guvenli
+diagnostic imaging	tanısal görüntüleme		guvenli
+informed consent	aydınlatılmış onam		guvenli
+medical history	tıbbi öykü		guvenli
+referral	sevk		guvenli
+indication	endikasyon		guvenli
+contraindication	kontrendikasyon		guvenli
